@@ -92,5 +92,5 @@ Group similar customers together for targeted marketing based on:
 ## 🚀 Getting Started
 1. Clone the repository
 ```bash
-git clone https://github.com/shreyakmukherjee/customer-segmentation-kmeans.git
-cd customer-segmentation-kmeans
+git clone https://github.com/suman2896/SCT_ML_2.git
+cd mall-customer-segmentation
