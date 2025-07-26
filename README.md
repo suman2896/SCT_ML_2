@@ -25,8 +25,7 @@ Group similar customers together for targeted marketing based on:
 - KMeans clustering and analysis
 - Multiple visualizations:
   - 📉 Elbow Method Plot
-  - 📊 2D & 3D Cluster Visualizations
-  - 🔥 Heatmap
+  - 📊 Cluster Visualizations
   - 🎯 Gender & Age distribution across clusters
   - 🔄 Pairwise Feature Relationships
 
